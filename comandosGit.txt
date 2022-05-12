@@ -1,0 +1,19 @@
+//Verificando o status da pasta
+git status
+
+//adicionado os arquivos 
+git add .
+
+//executando as alterações 
+git commit -m ""
+
+//iniciando pasta como reomte 
+git init --bare
+
+//adicionando a pasta ao endereco para ser o servidor
+git remote add local D:/aulas/2022/servidor/ 
+
+git push local master
+
+git pull local
+
