@@ -1,0 +1,22 @@
+const precosLivros = [
+    {
+        titulo:"JavaScript",
+        preco:25
+    },
+    {
+        titulo:"PHP",
+        preco:15
+    },
+    {
+        titulo:"Java",
+        preco:30
+    },
+    {
+        titulo:"C#",
+        preco:55
+    },
+    {
+        titulo:"JavaScript",
+        preco:25
+    },
+]
